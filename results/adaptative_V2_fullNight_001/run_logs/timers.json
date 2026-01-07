@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1765599707",
+        "python_version": "3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\legra\\OneDrive\\Documents\\UFU\\project\\CodesUnity\\Ski3D\\venv4\\Scripts\\mlagents-learn C:\\Users\\legra\\OneDrive\\Documents\\UFU\\project\\CodesUnity\\Ski3D\\config\\adaptative_mode.yaml --run-id=adaptative_V2_fullNight_001 --force",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.1.2+cu121",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1765599722"
+    },
+    "total": 15.672656900002039,
+    "count": 1,
+    "self": 0.0055593000070075504,
+    "children": {
+        "run_training.setup": {
+            "total": 0.08999529999709921,
+            "count": 1,
+            "self": 0.08999529999709921
+        },
+        "TrainerController.start_learning": {
+            "total": 15.577102299997932,
+            "count": 1,
+            "self": 0.00033460000122431666,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 15.576759099996707,
+                    "count": 1,
+                    "self": 15.576759099996707
+                },
+                "trainer_threads": {
+                    "total": 7.999988156370819e-07,
+                    "count": 1,
+                    "self": 7.999988156370819e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 7.800001185387373e-06,
+                    "count": 1,
+                    "self": 7.800001185387373e-06
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "AIForAdaptativeMode": {
+        "checkpoints": [
+            {
+                "steps": 49984,
+                "file_path": "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-49984.onnx",
+                "reward": null,
+                "creation_time": 1765469993.0275328,
+                "auxillary_file_paths": [
+                    "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-49984.pt"
+                ]
+            },
+            {
+                "steps": 99968,
+                "file_path": "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-99968.onnx",
+                "reward": null,
+                "creation_time": 1765470222.192995,
+                "auxillary_file_paths": [
+                    "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-99968.pt"
+                ]
+            },
+            {
+                "steps": 149952,
+                "file_path": "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-149952.onnx",
+                "reward": null,
+                "creation_time": 1765470452.0281105,
+                "auxillary_file_paths": [
+                    "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-149952.pt"
+                ]
+            },
+            {
+                "steps": 199936,
+                "file_path": "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-199936.onnx",
+                "reward": null,
+                "creation_time": 1765470681.6446965,
+                "auxillary_file_paths": [
+                    "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-199936.pt"
+                ]
+            },
+            {
+                "steps": 220992,
+                "file_path": "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-220992.onnx",
+                "reward": null,
+                "creation_time": 1765470846.2753036,
+                "auxillary_file_paths": [
+                    "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-220992.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 220992,
+            "file_path": "results\\adaptative_day_001\\AIForAdaptativeMode.onnx",
+            "reward": null,
+            "creation_time": 1765470846.2753036,
+            "auxillary_file_paths": [
+                "results\\adaptative_day_001\\AIForAdaptativeMode\\AIForAdaptativeMode-220992.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.2+cu121"
+    }
+}

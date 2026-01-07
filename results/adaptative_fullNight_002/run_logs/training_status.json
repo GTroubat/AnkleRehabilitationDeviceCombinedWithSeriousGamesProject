@@ -1,0 +1,65 @@
+{
+    "AIForAdaptativeMode": {
+        "checkpoints": [
+            {
+                "steps": 5749952,
+                "file_path": "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5749952.onnx",
+                "reward": null,
+                "creation_time": 1765546973.2759304,
+                "auxillary_file_paths": [
+                    "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5749952.pt"
+                ]
+            },
+            {
+                "steps": 5799936,
+                "file_path": "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5799936.onnx",
+                "reward": null,
+                "creation_time": 1765547198.911648,
+                "auxillary_file_paths": [
+                    "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5799936.pt"
+                ]
+            },
+            {
+                "steps": 5849984,
+                "file_path": "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5849984.onnx",
+                "reward": null,
+                "creation_time": 1765547424.5387578,
+                "auxillary_file_paths": [
+                    "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5849984.pt"
+                ]
+            },
+            {
+                "steps": 5899968,
+                "file_path": "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5899968.onnx",
+                "reward": null,
+                "creation_time": 1765547651.3785758,
+                "auxillary_file_paths": [
+                    "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5899968.pt"
+                ]
+            },
+            {
+                "steps": 5921344,
+                "file_path": "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5921344.onnx",
+                "reward": null,
+                "creation_time": 1765547814.4816954,
+                "auxillary_file_paths": [
+                    "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5921344.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5921344,
+            "file_path": "results\\adaptative_fullNight_002\\AIForAdaptativeMode.onnx",
+            "reward": null,
+            "creation_time": 1765547814.4816954,
+            "auxillary_file_paths": [
+                "results\\adaptative_fullNight_002\\AIForAdaptativeMode\\AIForAdaptativeMode-5921344.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.2+cu121"
+    }
+}

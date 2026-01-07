@@ -1,0 +1,29 @@
+{
+    "AIForAdaptativeMode": {
+        "checkpoints": [
+            {
+                "steps": 16044,
+                "file_path": "results\\adaptative_V2_day_009\\AIForAdaptativeMode\\AIForAdaptativeMode-16044.onnx",
+                "reward": -58.87135249376297,
+                "creation_time": 1765826216.9281867,
+                "auxillary_file_paths": [
+                    "results\\adaptative_V2_day_009\\AIForAdaptativeMode\\AIForAdaptativeMode-16044.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 16044,
+            "file_path": "results\\adaptative_V2_day_009\\AIForAdaptativeMode.onnx",
+            "reward": -58.87135249376297,
+            "creation_time": 1765826216.9281867,
+            "auxillary_file_paths": [
+                "results\\adaptative_V2_day_009\\AIForAdaptativeMode\\AIForAdaptativeMode-16044.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.2+cu121"
+    }
+}

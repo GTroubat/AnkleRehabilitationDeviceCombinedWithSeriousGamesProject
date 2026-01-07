@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ede19399820d75f43a295b707e18be02
+timeCreated: 1484146680
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331141
+  packageName: Cartoon Capsule Pack | Lite
+  packageVersion: 1.0
+  assetPath: Assets/Cartoon Capsule Pack Lite/Readme/Scripts/Editor/ReadmeEditor.cs
+  uploadId: 783381

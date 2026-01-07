@@ -1,0 +1,29 @@
+{
+    "ForceBasedAssistAgent": {
+        "checkpoints": [
+            {
+                "steps": 34290,
+                "file_path": "results\\adaptative_V3_day_002\\ForceBasedAssistAgent\\ForceBasedAssistAgent-34290.onnx",
+                "reward": -6.605043426776926,
+                "creation_time": 1766011726.0329342,
+                "auxillary_file_paths": [
+                    "results\\adaptative_V3_day_002\\ForceBasedAssistAgent\\ForceBasedAssistAgent-34290.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 34290,
+            "file_path": "results\\adaptative_V3_day_002\\ForceBasedAssistAgent.onnx",
+            "reward": -6.605043426776926,
+            "creation_time": 1766011726.0329342,
+            "auxillary_file_paths": [
+                "results\\adaptative_V3_day_002\\ForceBasedAssistAgent\\ForceBasedAssistAgent-34290.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.2+cu121"
+    }
+}

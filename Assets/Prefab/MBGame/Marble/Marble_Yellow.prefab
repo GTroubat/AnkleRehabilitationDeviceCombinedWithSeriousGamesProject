@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7173227000833720526
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 581347898201274562, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1782174621, guid: a66b9699f402aba4c887e7c38f063e40, type: 3}
+    - target: {fileID: 581347898201274562, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 581347898201274562, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 581347898201274562, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977516070784578436, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: marbleColor
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185787197395348430, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_Name
+      value: Marble_Yellow
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215556758344609771, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8257065120400811280, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}
+      propertyPath: colorSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 5f6b821f97d8a7f4baa4ca3d23e45856, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3d09caa5750ed9943ad901eff1548dd1, type: 3}

@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1765318797",
+        "python_version": "3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\legra\\OneDrive\\Documents\\UFU\\project\\CodesUnity\\Ski3D\\venv\\Scripts\\mlagents-learn --run-id=Test14",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.9.1+cpu",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1765318834"
+    },
+    "total": 37.40431190000163,
+    "count": 1,
+    "self": 0.005399999998189742,
+    "children": {
+        "run_training.setup": {
+            "total": 0.1443455000007816,
+            "count": 1,
+            "self": 0.1443455000007816
+        },
+        "TrainerController.start_learning": {
+            "total": 37.25456640000266,
+            "count": 1,
+            "self": 0.0006536000000778586,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 37.253892100001394,
+                    "count": 1,
+                    "self": 37.253892100001394
+                },
+                "trainer_threads": {
+                    "total": 2.2000021999701858e-06,
+                    "count": 1,
+                    "self": 2.2000021999701858e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.849999898695387e-05,
+                    "count": 1,
+                    "self": 1.849999898695387e-05
+                }
+            }
+        }
+    }
+}

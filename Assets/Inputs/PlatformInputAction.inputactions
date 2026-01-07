@@ -1,0 +1,55 @@
+{
+    "version": 1,
+    "name": "PlatformInputAction",
+    "maps": [
+        {
+            "name": "Platform",
+            "id": "9faa62b5-a80e-4721-b258-f8edc8d938c4",
+            "actions": [
+                {
+                    "name": "Right",
+                    "type": "Button",
+                    "id": "3acafcea-699a-4a99-a84a-249e815e6bf6",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Left",
+                    "type": "Button",
+                    "id": "89dd5d65-c1f5-401f-8510-0662a4e0d876",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "14e96787-c0b3-4dd6-8844-05fe4937a60a",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c488d20c-d06a-429e-90e0-2cfdbb7fd2ea",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,65 @@
+{
+    "AIForAdaptativeMode": {
+        "checkpoints": [
+            {
+                "steps": 899985,
+                "file_path": "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-899985.onnx",
+                "reward": -30.106328414054587,
+                "creation_time": 1765992201.8300557,
+                "auxillary_file_paths": [
+                    "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-899985.pt"
+                ]
+            },
+            {
+                "steps": 949945,
+                "file_path": "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-949945.onnx",
+                "reward": -15.12499351799488,
+                "creation_time": 1765992506.802735,
+                "auxillary_file_paths": [
+                    "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-949945.pt"
+                ]
+            },
+            {
+                "steps": 999981,
+                "file_path": "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-999981.onnx",
+                "reward": -12.065347750671208,
+                "creation_time": 1765992811.6603851,
+                "auxillary_file_paths": [
+                    "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-999981.pt"
+                ]
+            },
+            {
+                "steps": 1049946,
+                "file_path": "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-1049946.onnx",
+                "reward": -55.14103093743324,
+                "creation_time": 1765993109.0918741,
+                "auxillary_file_paths": [
+                    "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-1049946.pt"
+                ]
+            },
+            {
+                "steps": 1099652,
+                "file_path": "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-1099652.onnx",
+                "reward": null,
+                "creation_time": 1765993466.5621808,
+                "auxillary_file_paths": [
+                    "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-1099652.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1099652,
+            "file_path": "results\\adaptative_V2_belote_001\\AIForAdaptativeMode.onnx",
+            "reward": null,
+            "creation_time": 1765993466.5621808,
+            "auxillary_file_paths": [
+                "results\\adaptative_V2_belote_001\\AIForAdaptativeMode\\AIForAdaptativeMode-1099652.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.2+cu121"
+    }
+}
